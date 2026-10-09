@@ -1,0 +1,59 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2510.01037",
+    "url": "https://huggingface.co/papers/2510.01037",
+    "title": "CurES: From Gradient Analysis to Efficient Curriculum Learning for Reasoning LLMs",
+    "date": "2025-10-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.11696",
+    "url": "https://arxiv.org/abs/2610.11696",
+    "title": "A 3D Characterization Framework for Intelligent Sequential Decision Making",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2503.16219",
+    "url": "https://huggingface.co/papers/2503.16219",
+    "title": "Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't",
+    "date": "2025-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.11502",
+    "url": "https://arxiv.org/abs/2610.11502",
+    "title": "Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2504.13837",
+    "url": "https://huggingface.co/papers/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "hf-search"
+  },
+  {
+    "id": "openai-o1-reasoning-2024",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "summary": "OpenAI describes o1 as a reasoning model trained with reinforcement learning, and discusses the separate roles of train-time and test-time compute.",
+    "source": "web",
+    "n": 7
+  }
+]

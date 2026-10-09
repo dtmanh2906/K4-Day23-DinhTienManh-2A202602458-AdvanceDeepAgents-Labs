@@ -1,0 +1,59 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2402.08268",
+    "url": "https://huggingface.co/papers/2402.08268",
+    "title": "World Model on Million-Length Video And Language With RingAttention",
+    "date": "2024-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.12464",
+    "url": "https://arxiv.org/abs/2610.12464",
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2405.09111",
+    "url": "https://huggingface.co/papers/2405.09111",
+    "title": "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving",
+    "date": "2024-05-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.12461",
+    "url": "https://arxiv.org/abs/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2507.05169",
+    "url": "https://huggingface.co/papers/2507.05169",
+    "title": "Critiques of World Models",
+    "date": "2025-07-07",
+    "source": "hf-search"
+  },
+  {
+    "id": "world-model-tutorial-2026",
+    "url": "https://github.com/clearlab-sustech/WorldModelSurvey/blob/main/website/index.html",
+    "title": "From World Models to World Action Models: A Concise Tutorial for Robotics",
+    "date": "2026-08-17",
+    "summary": "The tutorial connects predictive world models with executable robot actions and organizes the field around representation, prediction, planning, and control.",
+    "source": "web",
+    "n": 7
+  }
+]

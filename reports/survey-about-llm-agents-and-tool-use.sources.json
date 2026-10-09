@@ -1,0 +1,59 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12375",
+    "url": "https://arxiv.org/abs/2610.12375",
+    "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2605.02964",
+    "url": "https://huggingface.co/papers/2605.02964",
+    "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+    "date": "2026-05-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.12190",
+    "url": "https://arxiv.org/abs/2610.12190",
+    "title": "DataSense-Bench: The First Step Toward an AI Scientist",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2602.21320",
+    "url": "https://huggingface.co/papers/2602.21320",
+    "title": "Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data",
+    "date": "2026-02-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.12183",
+    "url": "https://arxiv.org/abs/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2601.01498",
+    "url": "https://huggingface.co/papers/2601.01498",
+    "title": "From Failure to Mastery: Generating Hard Samples for Tool-use Agents",
+    "date": "2026-01-04",
+    "source": "hf-search"
+  },
+  {
+    "id": "anthropic-effective-agents-2024",
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "title": "Building effective agents",
+    "date": "2024-12-19",
+    "summary": "Anthropic distinguishes predefined workflows from agents that dynamically direct tool use, and describes patterns such as routing, parallelization, and evaluator-optimizer loops.",
+    "source": "web",
+    "n": 7
+  }
+]

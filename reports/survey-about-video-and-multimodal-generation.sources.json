@@ -1,0 +1,59 @@
+[
+  {
+    "n": 1,
+    "id": "2610.09307",
+    "url": "https://arxiv.org/abs/2610.09307",
+    "title": "vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2511.18780",
+    "url": "https://huggingface.co/papers/2511.18780",
+    "title": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2609.38154",
+    "url": "https://arxiv.org/abs/2609.38154",
+    "title": "LongLive-Plug: Once-for-All Distillation for Video Generation",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2512.23576",
+    "url": "https://huggingface.co/papers/2512.23576",
+    "title": "LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation",
+    "date": "2025-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2609.36199",
+    "url": "https://arxiv.org/abs/2609.36199",
+    "title": "PreviewDiff: Multimodal Critic-Guided Search over Diffusion Latents",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2609.15863",
+    "url": "https://huggingface.co/papers/2609.15863",
+    "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+    "date": "2026-09-14",
+    "source": "hf-search"
+  },
+  {
+    "id": "openai-sora-2024",
+    "url": "https://openai.com/index/sora/",
+    "title": "Sora: Creating video from text",
+    "date": "2024-02-15",
+    "summary": "OpenAI presents Sora as a text-to-video system and discusses generating videos while modeling temporal and visual structure.",
+    "source": "web",
+    "n": 7
+  }
+]

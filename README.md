@@ -97,6 +97,8 @@ Kết quả nằm ở `reports/survey-about-world-model.md` cùng `.sources.json
 - Chạy đủ **5 chủ đề** trong [`topics.md`](topics.md), mỗi chủ đề một lần.
 - Commit mã nguồn và toàn bộ `reports/`, đẩy lên một **public repo** GitHub và nộp link.
 - Kiểm tra trước khi nộp: chạy **`python self_check.py`** (không tốn token): nó kiểm tra đủ 5 báo cáo, `meta.json`, trích dẫn bằng `check_citations.py` của bạn, và không có `.env`/khóa nào trong git.
+- Có thể chạy tự động cả 5 chủ đề bằng **`python run_all.py`**; runner bỏ qua chủ đề đã đạt kiểm tra và tự chạy lại chủ đề lỗi.
+- Trước khi push, xác nhận các file report thật sự được Git theo dõi: `git add reports/` rồi chạy lại `python self_check.py`.
 - Cách chấm: xem [`RUBRIC.md`](RUBRIC.md).
 
 ## 7. Thời gian, chi phí và an toàn

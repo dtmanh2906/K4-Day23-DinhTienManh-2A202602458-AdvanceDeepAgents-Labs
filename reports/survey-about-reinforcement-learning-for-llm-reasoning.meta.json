@@ -1,0 +1,26 @@
+{
+  "model": "gemini-3.5-flash",
+  "elapsed_s": 2.9,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "task": 3,
+    "arxiv_search": 2,
+    "hf_search_papers": 2,
+    "web_search": 1,
+    "write_file": 3,
+    "read_file": 2,
+    "execute": 2,
+    "write_todos": 1
+  },
+  "tokens": {
+    "input": 5420,
+    "output": 2180
+  },
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "n_sources": 7,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

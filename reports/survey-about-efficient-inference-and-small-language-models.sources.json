@@ -1,0 +1,59 @@
+[
+  {
+    "n": 1,
+    "id": "2610.09941",
+    "url": "https://arxiv.org/abs/2610.09941",
+    "title": "Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.09186",
+    "url": "https://arxiv.org/abs/2610.09186",
+    "title": "The Dichotomy Between Pattern Recognition and Step-by-Step Reasoning",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.08048",
+    "url": "https://arxiv.org/abs/2610.08048",
+    "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2510.03515",
+    "url": "https://huggingface.co/papers/2510.03515",
+    "title": "RAPID: An Efficient Reinforcement Learning Algorithm for Small Language Models",
+    "date": "2025-10-03",
+    "source": "hf-search"
+  },
+  {
+    "id": "vllm-serving-2026",
+    "url": "https://vllm.ai/",
+    "title": "vLLM: The high-throughput and memory-efficient inference and serving engine for LLMs",
+    "date": "2026-01-01",
+    "summary": "The vLLM project describes PagedAttention, continuous batching, broad hardware support, and an OpenAI-compatible serving API as mechanisms for efficient deployment.",
+    "source": "web",
+    "n": 7
+  }
+]
